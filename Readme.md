@@ -3,6 +3,7 @@
 ### Author: Adam Veselý
 ### Login: xvesela00
 ### Time spent: ~14 hours (with breaks)
+### Github page for easier viewing: https://github.com/H0CK3Y03/IAN---Kernel-Vmcore-Analysis
 ---
 # 1. Using crash to find the root cause of the panic
 
