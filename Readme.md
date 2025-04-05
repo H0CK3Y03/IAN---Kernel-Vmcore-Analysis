@@ -1,5 +1,5 @@
 # IAN - Project 2
----
+
 ### Author: Adam Veselý
 ### Login: xvesela00
 ### Time spent: ~14 hours (with breaks)
